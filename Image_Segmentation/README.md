@@ -15,7 +15,8 @@ The training curves are as below
 
 The IOU for each class is as follows 
 
-```class background:            #TP=5945715,            #FP=1080091,            #FN=106750,            IoU=0.834
+```
+class background:            #TP=5945715,            #FP=1080091,            #FN=106750,            IoU=0.834
 class aeroplane:            #TP=  4440,            #FP=  9065,            #FN=14925,            IoU=0.156
 class bicycle:            #TP=     0,            #FP=     0,            #FN= 1050,            IoU=0.000
 class bird:            #TP=  4435,            #FP=104267,            #FN=41109,            IoU=0.030
@@ -38,7 +39,9 @@ class train:            #TP=  2497,            #FP= 15496,            #FN=109036
 class tvmonitor:            #TP=  4352,            #FP=  4651,            #FN=70602,            IoU=0.055
 
 _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _
-Mean IoU: 0.076```
+Mean IoU: 0.076
+
+```
 
 
 Some of the model predictions are as given below
@@ -58,7 +61,9 @@ The training curves are as below
 
 The IOU for each class is as follows 
 
-```class background:            #TP=5858738,            #FP=532019,            #FN=193727,            IoU=0.890
+```
+
+class background:            #TP=5858738,            #FP=532019,            #FN=193727,            IoU=0.890
 class aeroplane:            #TP= 12125,            #FP=  6065,            #FN= 7240,            IoU=0.477
 class bicycle:            #TP=     0,            #FP=    47,            #FN= 1050,            IoU=0.000
 class bird:            #TP= 29023,            #FP= 24407,            #FN=16521,            IoU=0.415
@@ -80,7 +85,9 @@ class sofa:            #TP= 18024,            #FP=  3622,            #FN=77282, 
 class train:            #TP= 35622,            #FP= 12816,            #FN=75911,            IoU=0.286
 class tvmonitor:            #TP= 22938,            #FP=  7866,            #FN=52016,            IoU=0.277
 _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _
-Mean IoU: 0.286```
+Mean IoU: 0.286
+
+```
 
 
 Some of the model predictions are as given below
