@@ -49,7 +49,7 @@ The adversarial images are as shown below
 
 The adversarial attack results on the classifier are as given below
 
-##Train set Adversary
+## Train set Adversary
 
 Results on Actual images:
 
@@ -63,7 +63,7 @@ Results on Noised images:
 Noised Train set F1 score     : 79.02%  <br />
 Noised Train set precision    : 70.11% <br />**
 
-##Test set Adversary
+## Test set Adversary
 
 Results on Actual images:
 
@@ -75,6 +75,6 @@ Results on Noised images:
 
 **Noised Test set accuracy    : 92.47% <br />
 Noised Test set F1 score      : 50.51%  <br />
-Noised Test set precision     : 43.60% <br /> **
+Noised Test set precision     : 43.60% <br />**
 
 
