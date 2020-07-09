@@ -11,10 +11,10 @@ The training curves are as below
 
 ![alt-text-1](../output_Images/class_sc.png "Training curve 1") ![alt-text-2](../output_Images/class_sc1.png "Training curve 2")
 
-Test set loss          : 17.46%
-Test set accuracy      : 94.82%
-Test set f1_m          : 73.11%
-Test set precision_m   : 67.95%`
+**Test set loss          : 17.46% <br />
+Test set accuracy      : 94.82% <br />
+Test set f1_m          : 73.11% <br />
+Test set precision_m   : 67.95% <br />**
 
 Some of the model predictions on test set is
 
@@ -27,10 +27,10 @@ The training curves are as below
 
 ![alt-text-1](../output_Images/class_tl.png "Training curve 1") ![alt-text-2](../output_Images/class_tl1.png "Training curve 2")
 
-Test set loss          : 8.67%
-Test set accuracy      : 97.62%
-Test set f1_m          : 85.37%
-Test set precision_m   : 92.13%
+**Test set loss          : 8.67% <br />
+Test set accuracy      : 97.62% <br />
+Test set f1_m          : 85.37% <br />
+Test set precision_m   : 92.13% <br />**
 
 Some of the model predictions on test set is
 
