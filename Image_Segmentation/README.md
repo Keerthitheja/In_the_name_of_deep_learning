@@ -1,6 +1,6 @@
 # Semantic Segmentation on PASCAL VOC (2009)
 
-The .ipynb notebook can be run directly on Google Colab. The dataset is donloaded automatically and saved to the local colab session. 
+The .ipynb notebook can be run directly on Google Colab. The dataset is downloaded automatically and saved to the local colab session. 
 
 The segmentation model is trained using VGG-UNet architecture as backbone for both from the scratch and transfer leaerning methods.
 
